@@ -1,2 +1,2 @@
 Invite: https://discord.com/api/oauth2/authorize?client_id=991454003919601724&permissions=2147601408&scope=bot
-Token: OTkxNDU0MDAzOTE5NjAxNzI0.G_AAJv.atzx4nkumR2z4slAD88q-OAM3KY5Z_MHb2GKrs
+Token: Insert Token Here
