@@ -1,5 +1,12 @@
 # RiceCooker
 
+## Music Player
+
+### About:
+
+The Rice Cooker musicplayer is a work in progress function that will enable the user to play music from a series of streaming/video libraries in a discord server VC. Rice Cooker has functions (Still need to link the functionality) to play, add to queue, skip, and clear queue based on User Inputs. 
+
+
 ## Responses
 At its core, RiceCooker serves a chat bot which adds a small spice to everyday conversations. If you are in need of a friend, Rice Bot will be there for you. Here are a handful of responses RiceCooker is capable of. 
 
